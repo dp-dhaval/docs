@@ -21,6 +21,7 @@ Specify the operator expression in a document of the form:
    {
       <operator1>: { <field1>: <value1>, ... },
       <operator2>: { <field2>: <value2>, ... },
+      <operator3>: { <field2>: <value3>, ... },
       ...
    }
 
